@@ -14,6 +14,7 @@
 - HTML titlebar
 - Renderer.js
 - Basic HTML and CSS
+- Open new window
 
 ## 🗓️ To-do
 - Adaptive light/dark theme
